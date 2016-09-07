@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+h1{
+padding: 30px;
+}
+form{
+	align-items: right;
+}
