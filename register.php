@@ -25,14 +25,6 @@ if($password==$password2){
 }
 ?>
 
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
